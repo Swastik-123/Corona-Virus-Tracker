@@ -1,0 +1,13 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+#first{
+	text-align: center;
+}
+.jumbotron{
+	background-color: green;
+	color: white;
+	font-size: 30px
+}

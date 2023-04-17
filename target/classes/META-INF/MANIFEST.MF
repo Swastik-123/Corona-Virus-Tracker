@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mishr
+Build-Jdk: 17.0.3
+Implementation-Title: Corona_Virus_Tracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Corona_Virus_Tracker
+Created-By: Maven Integration for Eclipse
+
